@@ -10,7 +10,7 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 
 The description should include a brief summary of what you did.
 
-Replace the first row with your own contribution. 
+Replace the first row with your own contribution.
 
 -->
 
@@ -18,8 +18,4 @@ Replace the first row with your own contribution.
 
 
 
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Date 26-4-2020       | [Famous People Page](https://en.wikipedia.org/w/index.php?title=Forbes_Celebrity_100&oldid=953390047)  | Wikipedia  | For some odd reason, some Jamaican street performer was listed as the most famous person of 2019. I found this odd and sure enough according to Forbes Celebrity 100, Taylor Swift is the most famous. |
